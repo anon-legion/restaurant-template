@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/restaurant-template/static/css/main.2f83eb38.chunk.css",
+    "main.js": "/restaurant-template/static/js/main.fe643958.chunk.js",
+    "main.js.map": "/restaurant-template/static/js/main.fe643958.chunk.js.map",
+    "runtime-main.js": "/restaurant-template/static/js/runtime-main.b49c023f.js",
+    "runtime-main.js.map": "/restaurant-template/static/js/runtime-main.b49c023f.js.map",
+    "static/css/2.09ef058d.chunk.css": "/restaurant-template/static/css/2.09ef058d.chunk.css",
+    "static/js/2.c0359be2.chunk.js": "/restaurant-template/static/js/2.c0359be2.chunk.js",
+    "static/js/2.c0359be2.chunk.js.map": "/restaurant-template/static/js/2.c0359be2.chunk.js.map",
+    "index.html": "/restaurant-template/index.html",
+    "static/css/2.09ef058d.chunk.css.map": "/restaurant-template/static/css/2.09ef058d.chunk.css.map",
+    "static/css/main.2f83eb38.chunk.css.map": "/restaurant-template/static/css/main.2f83eb38.chunk.css.map",
+    "static/js/2.c0359be2.chunk.js.LICENSE.txt": "/restaurant-template/static/js/2.c0359be2.chunk.js.LICENSE.txt",
+    "static/media/chicken_nobg.f2e399a6.png": "/restaurant-template/static/media/chicken_nobg.f2e399a6.png",
+    "static/media/drink_nobg.e0bc8def.png": "/restaurant-template/static/media/drink_nobg.e0bc8def.png",
+    "static/media/hamburger_nobg.a9c05af3.png": "/restaurant-template/static/media/hamburger_nobg.a9c05af3.png",
+    "static/media/mcdnld.bc7ee125.png": "/restaurant-template/static/media/mcdnld.bc7ee125.png",
+    "static/media/steak_nobg.fbbf7b0f.png": "/restaurant-template/static/media/steak_nobg.fbbf7b0f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b49c023f.js",
+    "static/css/2.09ef058d.chunk.css",
+    "static/js/2.c0359be2.chunk.js",
+    "static/css/main.2f83eb38.chunk.css",
+    "static/js/main.fe643958.chunk.js"
+  ]
+}
