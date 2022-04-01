@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/restaurant-template/static/css/main.5b92ec90.chunk.css",
-    "main.js": "/restaurant-template/static/js/main.10c33151.chunk.js",
-    "main.js.map": "/restaurant-template/static/js/main.10c33151.chunk.js.map",
+    "main.css": "/restaurant-template/static/css/main.a5e517c5.chunk.css",
+    "main.js": "/restaurant-template/static/js/main.69792e82.chunk.js",
+    "main.js.map": "/restaurant-template/static/js/main.69792e82.chunk.js.map",
     "runtime-main.js": "/restaurant-template/static/js/runtime-main.b49c023f.js",
     "runtime-main.js.map": "/restaurant-template/static/js/runtime-main.b49c023f.js.map",
     "static/js/2.f293c060.chunk.js": "/restaurant-template/static/js/2.f293c060.chunk.js",
     "static/js/2.f293c060.chunk.js.map": "/restaurant-template/static/js/2.f293c060.chunk.js.map",
     "index.html": "/restaurant-template/index.html",
-    "static/css/main.5b92ec90.chunk.css.map": "/restaurant-template/static/css/main.5b92ec90.chunk.css.map",
+    "static/css/main.a5e517c5.chunk.css.map": "/restaurant-template/static/css/main.a5e517c5.chunk.css.map",
     "static/js/2.f293c060.chunk.js.LICENSE.txt": "/restaurant-template/static/js/2.f293c060.chunk.js.LICENSE.txt",
     "static/media/ada.51c80279.png": "/restaurant-template/static/media/ada.51c80279.png",
     "static/media/chicken_nobg.f2e399a6.png": "/restaurant-template/static/media/chicken_nobg.f2e399a6.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.b49c023f.js",
     "static/js/2.f293c060.chunk.js",
-    "static/css/main.5b92ec90.chunk.css",
-    "static/js/main.10c33151.chunk.js"
+    "static/css/main.a5e517c5.chunk.css",
+    "static/js/main.69792e82.chunk.js"
   ]
 }
